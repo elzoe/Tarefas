@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Publish\WebTask</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>02/06/2018 13:37:49</publishTime>
+    </File>
+    <File Include="bin/DnsClient.dll">
+      <publishTime>02/06/2018 13:37:36</publishTime>
+    </File>
+    <File Include="bin/es/Hangfire.Core.resources.dll">
+      <publishTime>01/17/2018 11:22:30</publishTime>
+    </File>
+    <File Include="bin/Hangfire.Core.dll">
+      <publishTime>01/17/2018 11:22:30</publishTime>
+    </File>
+    <File Include="bin/Hangfire.Mongo.dll">
+      <publishTime>02/02/2018 10:54:21</publishTime>
+    </File>
+    <File Include="bin/Hangfire.SqlServer.dll">
+      <publishTime>01/17/2018 11:22:31</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>02/06/2018 13:37:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>02/06/2018 13:37:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>01/17/2018 11:37:21</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Bson.dll">
+      <publishTime>02/06/2018 13:37:35</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Driver.Core.dll">
+      <publishTime>02/06/2018 13:37:36</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Driver.dll">
+      <publishTime>02/06/2018 13:37:36</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>02/06/2018 13:37:46</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>01/17/2018 11:22:30</publishTime>
+    </File>
+    <File Include="bin/System.Buffers.dll">
+      <publishTime>02/06/2018 13:37:35</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>02/06/2018 13:37:35</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>01/17/2018 11:38:33</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>01/17/2018 11:38:33</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>01/17/2018 11:37:21</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/17/2018 11:38:33</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>01/17/2018 11:38:33</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>01/17/2018 11:38:33</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>01/17/2018 11:38:33</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>02/06/2018 13:37:19</publishTime>
+    </File>
+    <File Include="bin/WebTask.dll">
+      <publishTime>02/06/2018 13:50:49</publishTime>
+    </File>
+    <File Include="bin/WebTesteTask.dll">
+      <publishTime>01/29/2018 18:07:26</publishTime>
+    </File>
+    <File Include="bin/zh/Hangfire.Core.resources.dll">
+      <publishTime>01/17/2018 11:22:30</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>02/02/2018 10:25:14</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>02/06/2018 13:37:49</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>01/17/2018 11:33:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>01/17/2018 11:33:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>01/17/2018 11:33:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.js">
+      <publishTime>02/06/2018 13:37:27</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.min.js">
+      <publishTime>02/06/2018 13:37:27</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.min.map">
+      <publishTime>02/06/2018 13:37:27</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.slim.js">
+      <publishTime>02/06/2018 13:37:27</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.slim.min.js">
+      <publishTime>02/06/2018 13:37:26</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.slim.min.map">
+      <publishTime>02/06/2018 13:37:26</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>02/06/2018 13:37:23</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>02/06/2018 13:37:23</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>02/06/2018 13:37:16</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>02/06/2018 13:37:16</publishTime>
+    </File>
+    <File Include="Views/Tarefa/Index.cshtml">
+      <publishTime>01/17/2018 11:34:13</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>02/02/2018 11:09:13</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/06/2018 13:50:49</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
